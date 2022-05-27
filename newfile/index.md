@@ -9,6 +9,11 @@ Below is a link to my first GitHub repository.
 
 Below is a link to a sample Jupyter Notebook.
 
+-[My Jupyter Notebook](My Jupyter Notebook.html)
+
+Below is a link to download the sample Jupyter Notebook.
+
+-[Download My Jupyter Notebook](My Jupyter Notebook.ipynb)
 
 
 Go back to my landing page:
