@@ -1,6 +1,5 @@
 ---
-title: New Title
-description: This is my personal webpage
+
 ---
 
 ## Welcome to GitHub Pages
