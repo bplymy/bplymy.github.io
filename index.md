@@ -8,7 +8,7 @@ This page will continue to be updated with content I have created throughout my 
 
 
 
-The below link will link to the new folder. 
+The below link will take you to a sample of some of my work. 
 - [New Folder](/newfile/index.md)
 
 ## About Me
