@@ -7,6 +7,9 @@ Below is a link to my first GitHub repository.
 
 -[My GitHub Repository](https://github.com/bplymy/MyRepository)
 
+Below is a link to a sample Jupyter Notebook.
+
+
 
 Go back to my landing page:
 
