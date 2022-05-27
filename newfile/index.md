@@ -1,6 +1,6 @@
 ---
-title: Some of My Work
-description: This page contains some of the work I have done
+title: My Work
+description: This page contains a sample of some of the work I have done
 ---
 
 Below is a link to my first GitHub repository.
