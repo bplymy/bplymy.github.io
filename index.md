@@ -1,5 +1,5 @@
 ---
-title: My Personal Website
+title: Bailey's Personal Website
 description: Welcome to my personal website!
 ---
 
