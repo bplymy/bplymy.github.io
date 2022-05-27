@@ -7,5 +7,6 @@ Below is a link to my first GitHub repository.
 
 -[My GitHub Repository](https://github.com/bplymy/MyRepository)
 
+
 Go back to my landing page:
--[Back to my landing page](bplymy.github.io)
+-[Back to my landing page](https://bplymy.github.io)
