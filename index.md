@@ -13,3 +13,4 @@ The below link will link to the new folder.
 
 ## About Me
 I am a student at William & Mary's Mason School of Business learning about business analytics.
+![About Me](bplymy.jpg)
