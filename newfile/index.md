@@ -15,7 +15,7 @@ Below is a link to download the sample Jupyter Notebook.
 
 [Download My Jupyter Notebook](My Jupyter Notebook.ipynb)
 
-###
+
 
 Go back to my landing page:
 
